@@ -3,7 +3,7 @@
 This folder contains the legal and structural formation documents for ZEAM Foundation LLC — the entity responsible for holding and enforcing the Immutable Core, Protocol Set, and Intellectual Property (IP) portfolio that underpin the ZEAM architecture.
 
 ZEAM Foundation is not a startup.  
-It is the root-level sovereign structure behind a post-capital cognition and governance system.
+It is the root-level structure.
 
 ## Purpose
 
@@ -18,11 +18,12 @@ ZEAM Foundation exists to:
 
 - ZEAM Foundation LLC is a Delaware entity, 100% privately held.
 - There are no investors, no external board, and no dilution path.
-- The Operating Agreement is bare-bones and final: the Foundation is anchored, not governed.
 
 ## Files in This Directory
 
-- *Operating_Agreement*: The legal formation document establishing ZEAM Foundation.
+- *Formation Documents*: The legal formation document establishing ZEAM Foundation
+- *Initial Resolutions*: Initial resolutions
+- *Operating_Agreement*: The baseline operating agreement of ZEAM Foundation
 - *ZEAM Labs Exclusive License*: The exclusive license from ZEAM Foundation to ZEAM Labs to develop, manufacture, market, distribute, adapt, and otherwise exploit ZEAM IP. 
 
 This repository is public for one reason:  

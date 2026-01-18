@@ -1,30 +1,24 @@
-# ZEAM-Foundation-Corporate-Docs
+# ZEAM Foundation Corporate Documents
 
-This folder contains the legal and structural formation documents for ZEAM Foundation LLC — the entity responsible for holding and enforcing the Immutable Core, Protocol Set, and Intellectual Property (IP) portfolio that underpin the ZEAM architecture.
+Legal and structural formation documents for ZEAM Foundation LLC — the entity holding the ZEAM intellectual property portfolio.
 
-ZEAM Foundation is not a startup.  
-It is the root-level structure.
+---
 
-## Purpose
+## Structure
 
-ZEAM Foundation exists to:
+- **ZEAM Foundation LLC** — Delaware entity, 100% privately held
+- **ZEAM Labs LLC** — Exclusive licensee for development and commercialization
 
-- Hold the exclusive IP governing cognition, memory, Flow, and sovereign agent infrastructure.
-- Protect the Core from interference, dilution, and co-option.
-- Govern the exclusive licensing relationship with ZEAM Labs LLC.
-- Enforce the ethical and economic terms defined in the ZEAM License, including the 20% revenue flowback, 5% equity carve-outs, and permanent board representation.
+## Documents
 
-## Legal Structure
+| Document | Description |
+|----------|-------------|
+| Formation Documents | Legal formation establishing ZEAM Foundation |
+| Initial Resolutions | Board resolutions |
+| Operating Agreement | Foundation operating agreement |
+| ZEAM Labs Exclusive License | Exclusive license to ZEAM Labs for development, manufacturing, and commercialization of ZEAM IP |
 
-- ZEAM Foundation LLC is a Delaware entity, 100% privately held.
-- There are no investors, no external board, and no dilution path.
+---
 
-## Files in This Directory
-
-- *Formation Documents*: The legal formation document establishing ZEAM Foundation
-- *Initial Resolutions*: Initial resolutions
-- *Operating_Agreement*: The baseline operating agreement of ZEAM Foundation
-- *ZEAM Labs Exclusive License*: The exclusive license from ZEAM Foundation to ZEAM Labs to develop, manufacture, market, distribute, adapt, and otherwise exploit ZEAM IP. 
-
-This repository is public for one reason:  
-**The only way to protect integrity is to let the world see it.**
+**IP Portfolio:** [github.com/zeam-foundation/zeam-ip](https://github.com/zeam-foundation/zeam-ip)  
+**Licensing:** [zeamlabs.com](https://zeamlabs.com)

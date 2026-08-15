@@ -21,13 +21,16 @@ restated here as plain text so they can be read without opening a scanned PDF.
 | **Duration** | Perpetual |
 | **Registered agent** | Northwest Registered Agent Service, Inc. |
 | **Registered office** | 8 The Green, Suite B, Dover, DE 19901, United States |
+| **Governing law** | Delaware ([Terms of Service](https://www.zeamlabs.com/terms.html)) |
 | **Contact** | info@zeamlabs.com |
 
 > The repository filenames read `5-28-25`. The Secretary of State stamp on the certificate reads
 > **FILED 10:12 AM 05/27/2025**. The stamp is authoritative.
 
 **Verify independently.** The file number above resolves at the Delaware Division of Corporations entity
-search — <https://icis.corp.delaware.gov/ecorp/entitysearch/NameSearch.aspx> — without going through us.
+search — <https://icis.corp.delaware.gov/eCorp/EntitySearch/NameSearch.aspx> — without going through us.
+That search is a browser form and will not answer an automated request, so an agent cannot check it
+directly; the stamped certificate in this repository is the machine-reachable path to the same facts.
 
 ---
 
@@ -51,6 +54,15 @@ search — <https://icis.corp.delaware.gov/ecorp/entitysearch/NameSearch.aspx> �
 
 The PDFs are page scans and carry no text layer, so they are not searchable or machine-readable. That is
 why the entity facts are written out above.
+
+---
+
+## What this repository is not
+
+These are formation and governance records. They are not an audit, a financial statement, a solvency
+representation, or a warranty of any service. The Foundation holds intellectual property; it does not
+operate services. For what is actually running and on what terms, see
+[ZEAM :: Prism](https://www.zeamprism.com) and its [Terms](https://www.zeamlabs.com/terms.html).
 
 ---
 
